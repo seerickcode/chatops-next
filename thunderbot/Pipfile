@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 slack-machine = "*"
 paho-mqtt = "*"
+pygame = "*"
 
 [requires]
 python_version = "3.6"
